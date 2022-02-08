@@ -1,4 +1,4 @@
-# my_app
+# Torch
 
 A new Flutter project.
 
